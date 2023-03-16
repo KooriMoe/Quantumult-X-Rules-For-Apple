@@ -122,7 +122,7 @@ host-suffix,stocks-sparkline-lb.apple.com.akadns.net,Apple
 host-suffix,stocks-sparkline.apple.com,Apple
 host-suffix,store.apple.com.edgekey.net.globalredir.akadns.net,Apple
 host-suffix,store.apple.com.edgekey.net,Apple
-host-suffix,host-suffix,store.apple.com,Apple
+host-suffix,store.apple.com,Apple
 host-suffix,store.storeimages.apple.com.akadns.net,Apple
 host-suffix,support-china.apple-support.akadns.net,Apple
 host-suffix,support.apple.com,Apple
